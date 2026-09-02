@@ -1,4 +1,4 @@
-  public class ExercicioScanner6 {
+public class ExercicioScanner7 {
     public static void main(String[] args){
         double op1 = (20-15)/2;
         double op2 = Math.pow(2, (5/20) + 30) / Math.pow(15, 2);
