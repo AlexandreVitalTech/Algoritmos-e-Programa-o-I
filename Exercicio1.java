@@ -7,4 +7,4 @@ public class Exercicio1{
         System.out.println("Meu RA é " + matricula);
         System.out.println("Meu curso é "+curso);
     }
-} 
+}
