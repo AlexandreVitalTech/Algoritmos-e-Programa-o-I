@@ -1,3 +1,5 @@
+//Autor: Alexandre Vital de Oliveira Arcanjo
+ 
 package Exercicios_Switch;
 import java.util.Scanner;
 
